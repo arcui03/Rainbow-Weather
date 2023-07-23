@@ -1,7 +1,5 @@
 # Rainbow Weather App
 
-![Rainbow Weather App](https://arcui03.github.io/Rainbow-Weather/images/rainbow_weather_app.png)
-
 Welcome to the Rainbow Weather App repository! This web application provides real-time weather updates and forecasts for various locations worldwide, presented in a delightful and visually appealing manner. With Rainbow Weather, you can stay informed about the current weather conditions, temperature, humidity, wind speed, and much more!
 
 ## Table of Contents
