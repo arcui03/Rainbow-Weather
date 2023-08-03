@@ -9,12 +9,12 @@ body {
 
     background-image: url(images/bg.jpg);
     background-size: cover;
- 
+
 }
 
 nav {
     font-family: 'Ubuntu', sans-serif;
-    
+
 }
 
 nav ul {
@@ -26,7 +26,7 @@ nav ul {
 }
 
 nav ul li {
-    padding:10px;
+    padding: 10px;
 }
 
 .navbar img {
@@ -55,7 +55,7 @@ nav ul li {
 
 .card {
 
-    background: rgba(0,0,0,0.5);
+    background: rgba(0, 0, 0, 0.5);
     color: #FFF8EA;
     width: 50%;
     margin: 70px auto 0;
@@ -83,6 +83,7 @@ nav ul li {
     padding-bottom: 20px;
 
 }
+
 .welcome_text img {
     width: 250px;
 }
@@ -157,7 +158,8 @@ nav ul li {
     margin-right: 20px;
 }
 
-.humidity,.wind {
+.humidity,
+.wind {
     font-size: 28px;
 
 }
@@ -172,6 +174,7 @@ nav ul li {
     text-align: center;
     margin-top: 50px;
 }
+
 .bottom h1 {
     font-size: 20px;
     font-weight: 700;
